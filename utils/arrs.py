@@ -1,4 +1,3 @@
-"""Функции для работы с массивами"""
 
 
 def get(array, index, default=None):
